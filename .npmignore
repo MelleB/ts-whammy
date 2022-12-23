@@ -22,3 +22,17 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+/src
+/tests
+/.github
+vite.config.ts
+.browserslistrc
+jest.config.js
+tsconfig.json
+tsconfig.lib.json
+yarn.lock
+package-lock.json
+.nvmrc
+.npmrc
+
